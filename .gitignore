@@ -1,0 +1,5 @@
+__pychae__
+.vscode
+venv/
+.python-version
+txt.txt
